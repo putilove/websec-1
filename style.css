@@ -27,6 +27,13 @@ input[type='number']{
     width: 200px
 }
 
+input[type='button']{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    width:160px;
+}
+
 span{
     min-height: 45px;
     height: max-content;
